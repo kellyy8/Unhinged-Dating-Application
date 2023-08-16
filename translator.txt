@@ -1,0 +1,1107 @@
+hobby,dining,job,architect
+favorite_food,del taco,favorite_food,del taco
+favorite_food,del taco,favorite_food,del taco
+favorite_food,del taco,favorite_food,mexican
+favorite_food,del taco,occupation,del taco employee
+favorite_food,taco bell,favorite_food,del taco
+trait,transparent,trait,transparent
+job,chef,hobby,eating
+job,writer,job,janitor
+trait,regretful,job,curator
+trait,anxious,hobby,hiking
+job,psychologist,job,chef
+job,salesperson,hobby,poetry
+trait,meretricious,hobby,improv
+job,writer,hobby,sewing
+trait,disruptive,hobby,canyoneering
+trait,ungrateful,trait,excitable
+hobby,video games,hobby,cycling
+job,janitor,hobby,golfing
+hobby,mixology,job,lawyer
+job,retired,trait,small-thinking
+hobby,improv,trait,cultured
+job,editor,hobby,paintball
+trait,unlovable,trait,hidebound
+job,accountant,job,historian
+trait,disruptive,trait,rotund
+hobby,photography,hobby,swimming
+job,teacher,trait,cynical
+job,lawyer,job,nurse
+hobby,rock climbing,job,professor
+job,editor,hobby,magic
+hobby,ice skating,hobby,juggling
+job,retired,job,lawyer
+trait,high-handed,trait,paranoid
+job,unemployed,trait,regimental
+hobby,improv,job,lecturer
+trait,mistaken,job,librarian
+trait,trendy,job,nurse
+job,janitor,job,accountant
+hobby,scrapbooking,trait,sordid
+hobby,gaming,job,writer
+trait,adventurous,job,janitor
+trait,profligate,job,teacher
+job,writer,trait,serious
+job,curator,hobby,paintball
+trait,escapist,job,accountant
+job,nurse,hobby,sailing
+trait,uncaring,job,retired
+hobby,reading,trait,odd
+hobby,slacklining,job,doctor
+trait,loquacious,trait,elegant
+hobby,slacklining,trait,dramatic
+job,retired,trait,rigid
+trait,puritanical,trait,neglectful
+job,reporter,trait,grim
+job,janitor,job,electrician
+trait,distractible,job,architect
+hobby,baking,hobby,woodworking
+hobby,chess,hobby,skate boarding
+trait,egocentric,trait,superstitious
+hobby,woodworking,job,nurse
+trait,agonizing,job,historian
+trait,predatory,job,engineer
+trait,thievish,trait,devious
+job,editor,trait,frightening
+job,engineer,job,lawyer
+trait,egocentric,job,doctor
+hobby,rock climbing,job,nurse
+hobby,gardening,hobby,gaming
+job,chef,job,lawyer
+job,reporter,trait,cowardly
+job,janitor,hobby,wine tasting
+job,lecturer,job,editor
+job,psychologist,job,retired
+hobby,painting,trait,critical
+hobby,photography,hobby,running
+hobby,slacklining,trait,dependent
+trait,willful,trait,malicious
+trait,fanciful,trait,mechanical
+trait,neglectful,hobby,kayaking
+job,professor,hobby,woodworking
+job,firefighter,hobby,writing
+job,lawyer,job,doctor
+hobby,fishing,hobby,paintball
+job,teacher,hobby,slacklining
+trait,false,trait,repentant
+hobby,gaming,trait,disorganized
+job,chef,job,nurse
+hobby,gardening,job,curator
+trait,timid,hobby,painting
+job,unemployed,hobby,video games
+job,psychologist,trait,cowardly
+trait,lazy,trait,unstable
+job,nurse,job,electrician
+job,retired,trait,escapist
+hobby,mixology,job,firefighter
+trait,naive,job,firefighter
+trait,one-sided,job,psychologist
+hobby,cycling,hobby,surfing
+hobby,origami,job,historian
+job,professor,job,electrician
+trait,disloyal,trait,abrasive
+hobby,hiking,hobby,wine tasting
+trait,fixed,trait,condemnatory
+hobby,slacklining,hobby,photography
+job,nurse,job,chef
+job,lecturer,hobby,gardening
+job,salesperson,trait,unfriendly
+trait,single-minded,trait,adventurous
+job,unemployed,hobby,painting
+trait,anxious,job,firefighter
+trait,stupid,hobby,poetry
+trait,crafty,hobby,slacklining
+job,janitor,job,editor
+trait,sadistic,hobby,kayaking
+job,editor,hobby,improv
+trait,obnoxious,hobby,bowling
+hobby,hiking,hobby,canyoneering
+trait,adventurous,trait,presumptuous
+trait,monstrous,trait,prim
+trait,uncritical,job,teacher
+job,retired,hobby,ice skating
+hobby,improv,hobby,paintball
+job,doctor,trait,strong-willed
+trait,clumsy,trait,ridiculous
+hobby,drawing,trait,vacuous
+job,engineer,job,doctor
+job,accountant,hobby,magic
+job,unemployed,job,salesperson
+hobby,mixology,hobby,martial arts
+hobby,beatboxing,job,architect
+job,unemployed,job,accountant
+trait,vague,job,unemployed
+trait,difficult,hobby,poetry
+hobby,gardening,hobby,beatboxing
+hobby,mixology,job,engineer
+trait,weak,trait,anxious
+trait,unreflective,trait,dramatic
+job,electrician,trait,reactive
+trait,dirty,job,janitor
+hobby,surfing,trait,sadistic
+trait,fiery,trait,sedentary
+trait,critical,trait,dirty
+job,accountant,hobby,scrapbooking
+trait,abrasive,hobby,skate boarding
+trait,frightening,trait,angry
+trait,intolerant,hobby,juggling
+job,editor,job,curator
+hobby,woodworking,hobby,mixology
+trait,repressed,job,professor
+hobby,canyoneering,hobby,cosplaying
+hobby,kayaking,hobby,juggling
+hobby,sailing,trait,impulsive
+job,firefighter,job,retired
+job,engineer,trait,arrogantt
+trait,hedonistic,trait,puritanical
+job,historian,hobby,cosplaying
+trait,considerate,trait,colorless
+hobby,kayaking,hobby,canyoneering
+trait,one-sided,job,salesperson
+hobby,chess,trait,impulsive
+job,doctor,trait,shy
+trait,criminal,job,engineer
+trait,quirky,hobby,pottery
+trait,presumptuous,trait,gloomy
+hobby,woodworking,job,historian
+trait,negativistic,job,doctor
+hobby,gaming,job,psychologist
+hobby,slacklining,job,salesperson
+trait,oppressed,hobby,ice skating
+hobby,slacklining,trait,quirky
+job,professor,job,lawyer
+hobby,yoga,hobby,mixology
+hobby,dancing,job,unemployed
+trait,fixed,job,lecturer
+job,firefighter,job,engineer
+trait,criminal,trait,smart
+hobby,beatboxing,job,historian
+trait,arrogantt,job,librarian
+trait,suspicious,job,curator
+job,engineer,hobby,reading
+hobby,scrapbooking,hobby,baking
+trait,fanatical,job,writer
+trait,conceited,trait,negativistic
+hobby,drawing,hobby,golfing
+hobby,slacklining,trait,agonizing
+hobby,paintball,job,chef
+trait,cautious,job,nurse
+job,lecturer,trait,ridiculous
+trait,faithless,hobby,woodworking
+trait,eloquent,hobby,fishing
+job,writer,trait,pedantic
+hobby,swimming,hobby,golfing
+hobby,swimming,trait,strong-willed
+hobby,slacklining,trait,plodding
+hobby,bowling,trait,uncharitable
+trait,venomous,trait,empathetic
+hobby,bowling,job,unemployed
+trait,conformist,trait,sedentary
+job,unemployed,hobby,bird watching
+job,chef,hobby,origami
+job,janitor,trait,fraudulent
+job,accountant,trait,unimaginative
+trait,unrealistic,trait,narcissistic
+trait,impulsive,hobby,running
+trait,power-hungry,hobby,improv
+job,editor,hobby,pottery
+hobby,slacklining,job,accountant
+trait,naive,trait,pugnacious
+trait,neat,trait,dishonest
+trait,mawkish,hobby,gardening
+trait,disturbing,hobby,skate boarding
+trait,narrow-minded,job,firefighter
+job,teacher,trait,irrational
+hobby,puppetry,trait,argumentative
+hobby,yoga,trait,unimpressive
+trait,disrespectful,hobby,dancing
+job,professor,job,editor
+hobby,sailing,hobby,juggling
+job,lawyer,trait,imprudent
+hobby,bowling,job,accountant
+trait,efficient,hobby,golfing
+hobby,rock climbing,job,salesperson
+trait,unconvincing,job,doctor
+hobby,martial arts,trait,weak
+trait,haughty,trait,meddlesome
+hobby,scuba diving,job,lecturer
+job,librarian,hobby,pottery
+job,reporter,trait,misguided
+job,librarian,trait,fatalistic
+job,psychologist,job,firefighter
+hobby,cycling,hobby,pottery
+job,salesperson,job,doctor
+trait,libidinous,trait,one-dimensional
+job,accountant,job,electrician
+trait,unrestrained,job,professor
+trait,unrealistic,hobby,martial arts
+job,curator,hobby,drawing
+job,reporter,trait,transparent
+job,architect,hobby,hiking
+hobby,scrapbooking,job,lawyer
+hobby,ice skating,job,engineer
+job,nurse,job,teacher
+job,engineer,hobby,cycling
+trait,selfish,trait,sanctimonious
+hobby,rock climbing,hobby,dancing
+hobby,writing,job,editor
+hobby,poker,trait,egocentric
+hobby,canyoneering,trait,transparent
+hobby,pottery,job,engineer
+hobby,origami,job,librarian
+hobby,woodworking,hobby,baking
+hobby,astronomy,job,engineer
+job,reporter,hobby,woodworking
+job,architect,job,professor
+hobby,skate boarding,trait,frivolous
+hobby,hiking,trait,indecisive
+trait,shallow,trait,silly
+hobby,camping,trait,trendy
+hobby,painting,trait,abrasive
+job,librarian,hobby,origami
+hobby,juggling,hobby,ice skating
+hobby,magic,hobby,sailing
+hobby,photography,hobby,cycling
+job,lawyer,job,historian
+trait,contemptible,job,electrician
+hobby,improv,trait,fickle
+job,unemployed,job,engineer
+hobby,beatboxing,job,architect
+job,writer,hobby,fishing
+job,professor,hobby,reading
+job,doctor,hobby,astronomy
+trait,critical,trait,delicate
+trait,brutal,job,firefighter
+trait,hateful,job,electrician
+job,salesperson,job,editor
+job,accountant,job,janitor
+job,librarian,hobby,puppetry
+hobby,ice skating,trait,extravagant
+hobby,drawing,trait,reactive
+trait,sadistic,job,librarian
+job,electrician,hobby,rock climbing
+hobby,rock climbing,job,curator
+trait,one-dimensional,job,lawyer
+hobby,baking,trait,unappreciative
+job,writer,trait,uncaring
+job,doctor,hobby,poker
+hobby,paintball,trait,troublesome
+hobby,woodworking,hobby,swimming
+hobby,puppetry,hobby,chess
+job,lecturer,hobby,kayaking
+job,psychologist,job,editor
+job,reporter,hobby,poetry
+hobby,kayaking,hobby,chess
+job,doctor,job,retired
+trait,dirty,job,chef
+trait,blunt,hobby,yoga
+trait,malicious,job,psychologist
+trait,odd,job,teacher
+hobby,rock climbing,job,curator
+job,accountant,job,historian
+job,firefighter,trait,provocative
+job,professor,job,librarian
+trait,dissolute,trait,venal
+hobby,scrapbooking,trait,aimless
+trait,complacent,job,accountant
+hobby,golfing,hobby,slacklining
+job,chef,trait,careless
+hobby,improv,trait,unconvincing
+job,engineer,job,doctor
+trait,malicious,trait,distractible
+hobby,surfing,trait,crass
+hobby,fishing,job,psychologist
+job,unemployed,job,professor
+hobby,cycling,hobby,pottery
+trait,imitative,job,janitor
+trait,willful,trait,hostile
+trait,impulsive,job,lawyer
+hobby,painting,hobby,sailing
+trait,crazy,hobby,canyoneering
+job,engineer,job,architect
+trait,sedentary,hobby,origami
+job,reporter,trait,obnoxious
+trait,sly,job,engineer
+trait,possessive,trait,condemnatory
+job,nurse,hobby,rock climbing
+job,curator,job,retired
+job,professor,hobby,reading
+job,teacher,trait,inert
+trait,skinny,hobby,fishing
+hobby,swimming,job,reporter
+hobby,swimming,trait,crude
+job,teacher,hobby,canyoneering
+job,retired,hobby,golfing
+job,accountant,hobby,astronomy
+trait,insincere,job,teacher
+hobby,running,trait,softheaded
+job,unemployed,hobby,fishing
+job,doctor,trait,fickle
+trait,destructive,trait,arrogantt
+job,unemployed,job,firefighter
+trait,resentful,hobby,beatboxing
+trait,uncreative,job,firefighter
+trait,miserly,trait,balanced
+hobby,rock climbing,trait,extreme
+trait,argumentative,job,retired
+hobby,gaming,job,editor
+job,architect,job,doctor
+job,chef,job,curator
+hobby,kayaking,job,retired
+trait,ruined,hobby,sailing
+hobby,rock climbing,hobby,sewing
+trait,confused,hobby,drawing
+job,reporter,trait,vulnerable
+hobby,sewing,trait,pharissical
+hobby,sailing,job,nurse
+hobby,golfing,hobby,dancing
+hobby,magic,trait,cynical
+hobby,improv,trait,fixed
+job,retired,trait,unfriendly
+hobby,canyoneering,job,editor
+hobby,yoga,trait,neurotic
+trait,grand,job,electrician
+hobby,poetry,hobby,puppetry
+job,retired,job,nurse
+trait,offhand,hobby,beatboxing
+trait,conceited,trait,calm
+hobby,rock climbing,trait,inert
+trait,indecisive,hobby,poetry
+trait,fearful,hobby,fishing
+hobby,rock climbing,trait,softheaded
+job,curator,hobby,canyoneering
+job,accountant,hobby,bird watching
+job,editor,hobby,golfing
+trait,odd,trait,irascible
+hobby,painting,job,librarian
+job,engineer,hobby,drawing
+job,reporter,job,professor
+job,teacher,job,curator
+job,teacher,hobby,dancing
+hobby,yoga,trait,aloof
+job,doctor,trait,impulsive
+job,unemployed,trait,abrupt
+job,retired,hobby,video games
+job,writer,hobby,photography
+job,lawyer,hobby,surfing
+job,nurse,trait,unconvincing
+job,professor,job,electrician
+hobby,puppetry,hobby,gardening
+hobby,bowling,job,psychologist
+hobby,wine tasting,trait,superficial
+job,firefighter,job,salesperson
+job,engineer,trait,prim
+hobby,dancing,trait,vacuous
+trait,reactionary,job,reporter
+trait,cowardly,hobby,chess
+trait,thoughtless,trait,hidebound
+job,librarian,hobby,ice skating
+trait,desperate,hobby,cosplaying
+job,firefighter,job,editor
+job,librarian,hobby,paintball
+job,unemployed,trait,overimaginative
+hobby,juggling,trait,monstrous
+trait,biosterous,job,salesperson
+job,salesperson,trait,fawning
+job,lawyer,job,psychologist
+job,retired,job,engineer
+hobby,poker,hobby,martial arts
+hobby,photography,hobby,video games
+job,writer,trait,expedient
+trait,obvious,hobby,photography
+job,salesperson,trait,uncharitable
+trait,disciplined,job,professor
+job,historian,trait,fraudulent
+trait,assertive,job,teacher
+hobby,bird watching,hobby,golfing
+job,lawyer,hobby,astronomy
+job,retired,trait,insincere
+trait,careless,hobby,cosplaying
+trait,cynical,hobby,wine tasting
+hobby,running,hobby,gaming
+trait,mawkish,hobby,video games
+hobby,woodworking,trait,misguided
+job,architect,hobby,magic
+hobby,yoga,hobby,running
+hobby,scuba diving,trait,compulsive
+job,doctor,job,retired
+job,accountant,hobby,juggling
+job,lecturer,trait,reactionary
+trait,discreet,job,accountant
+hobby,mixology,job,salesperson
+job,librarian,trait,possessive
+trait,obvious,hobby,skate boarding
+job,psychologist,job,reporter
+job,chef,trait,suspicious
+hobby,skate boarding,trait,fickle
+hobby,reading,job,salesperson
+hobby,writing,job,teacher
+job,editor,trait,forgetful
+trait,athletic,trait,unstable
+trait,treacherous,trait,offhand
+hobby,scrapbooking,trait,mannered
+trait,dependent,hobby,poker
+job,librarian,job,unemployed
+trait,dependent,job,psychologist
+job,firefighter,hobby,sailing
+job,editor,trait,athletic
+hobby,astronomy,job,editor
+hobby,golfing,hobby,paintball
+hobby,astronomy,hobby,painting
+job,electrician,hobby,poetry
+hobby,astronomy,job,librarian
+trait,unlovable,hobby,cosplaying
+trait,complaintive,job,janitor
+hobby,pottery,trait,submissive
+trait,bizarre,trait,vague
+hobby,poetry,hobby,golfing
+hobby,reading,job,writer
+trait,crafty,hobby,puppetry
+hobby,hiking,job,professor
+trait,reactionary,hobby,running
+hobby,canyoneering,trait,puritanical
+job,lecturer,job,nurse
+job,architect,hobby,woodworking
+hobby,woodworking,trait,regimental
+hobby,writing,hobby,baking
+hobby,puppetry,hobby,hiking
+trait,moody,trait,unimaginative
+job,librarian,trait,melancholic
+hobby,sewing,hobby,painting
+job,nurse,trait,slow
+hobby,improv,trait,phlegmatic
+trait,obvious,trait,muddle-headed
+trait,reactive,trait,insulting
+job,professor,trait,inhibited
+trait,narcissistic,trait,libidinous
+hobby,yoga,trait,dissonant
+job,curator,trait,undisciplined
+trait,caring,trait,gullible
+trait,strong-willed,hobby,magic
+hobby,kayaking,hobby,bird watching
+hobby,skate boarding,job,chef
+hobby,photography,trait,tactless
+trait,melancholic,hobby,chess
+hobby,poker,job,professor
+job,professor,job,writer
+job,curator,hobby,scuba diving
+job,firefighter,trait,aimless
+trait,grand,job,reporter
+trait,forgetful,trait,high-handed
+job,retired,trait,tense
+job,lecturer,job,salesperson
+trait,bland,job,architect
+job,chef,trait,haughty
+hobby,poetry,job,nurse
+trait,flexible,trait,unreliable
+hobby,chess,job,doctor
+job,writer,job,editor
+job,professor,trait,grim
+hobby,kayaking,hobby,juggling
+trait,distractible,hobby,golfing
+hobby,sailing,hobby,yoga
+trait,flamboyant,job,historian
+hobby,woodworking,hobby,canyoneering
+job,librarian,hobby,poetry
+trait,compulsive,trait,money-minded
+trait,clumsy,trait,introvert
+trait,intolerant,trait,mannerless
+job,chef,hobby,kayaking
+job,reporter,hobby,video games
+hobby,drawing,job,teacher
+hobby,writing,job,engineer
+hobby,sailing,trait,charmless
+trait,domineering,job,librarian
+trait,mealymouthed,trait,sanctimonious
+job,historian,trait,flamboyant
+trait,odd,hobby,origami
+trait,unself-critical,job,janitor
+job,salesperson,trait,uncaring
+trait,hostile,job,chef
+job,architect,job,architect
+trait,troublesome,job,psychologist
+hobby,poker,job,accountant
+job,teacher,hobby,reading
+trait,unimaginative,hobby,poetry
+trait,irrational,hobby,surfing
+hobby,rock climbing,job,reporter
+hobby,gaming,hobby,ice skating
+hobby,puppetry,job,writer
+job,accountant,job,nurse
+hobby,running,job,lecturer
+trait,ungrateful,trait,messy
+hobby,yoga,trait,fraudulent
+job,curator,hobby,puppetry
+hobby,woodworking,job,nurse
+trait,cantakerous,job,editor
+trait,cruel,hobby,poetry
+trait,procrastinating,trait,quirky
+hobby,surfing,job,reporter
+trait,disputatious,job,firefighter
+job,architect,trait,conceited
+hobby,poker,trait,argumentative
+job,architect,trait,bland
+trait,provocative,job,janitor
+trait,abrasive,hobby,ice skating
+hobby,cycling,job,chef
+trait,misguided,hobby,chess
+hobby,mixology,job,writer
+hobby,sailing,trait,shallow
+hobby,swimming,trait,uncreative
+trait,egocentric,job,librarian
+job,writer,hobby,martial arts
+job,nurse,hobby,hiking
+hobby,scuba diving,trait,steely
+job,writer,hobby,woodworking
+job,accountant,job,salesperson
+hobby,slacklining,hobby,paintball
+trait,stupid,trait,narrow
+hobby,photography,hobby,bowling
+hobby,running,trait,empathetic
+job,historian,trait,egocentric
+trait,calm,hobby,astronomy
+hobby,surfing,hobby,cycling
+trait,gullible,hobby,poetry
+trait,sly,trait,disputatious
+hobby,drawing,job,teacher
+job,electrician,job,librarian
+trait,insecure,hobby,rock climbing
+trait,calm,trait,narrow
+hobby,reading,hobby,golfing
+job,librarian,trait,argumentative
+job,teacher,trait,monstrous
+trait,scheming,hobby,drawing
+job,editor,hobby,canyoneering
+trait,egocentric,hobby,mixology
+trait,discourteous,hobby,golfing
+hobby,kayaking,trait,suspicious
+job,firefighter,trait,charmless
+hobby,wine tasting,hobby,video games
+job,reporter,hobby,wine tasting
+hobby,juggling,job,teacher
+job,doctor,job,teacher
+hobby,bowling,trait,neglectful
+trait,undisciplined,hobby,painting
+job,librarian,job,architect
+hobby,poetry,job,chef
+trait,submissive,job,historian
+job,teacher,job,reporter
+hobby,paintball,job,lawyer
+trait,dissonant,hobby,magic
+hobby,running,trait,uncharitable
+hobby,gaming,hobby,canyoneering
+trait,unconvincing,trait,active
+hobby,kayaking,hobby,bird watching
+job,retired,job,firefighter
+trait,trendy,trait,naive
+hobby,chess,trait,conventional
+trait,vindictive,job,unemployed
+trait,negativistic,job,retired
+trait,elegant,hobby,scrapbooking
+job,accountant,hobby,poetry
+trait,mannered,trait,impractical
+hobby,improv,job,nurse
+job,teacher,job,retired
+hobby,painting,job,psychologist
+hobby,beatboxing,hobby,golfing
+trait,abrupt,job,engineer
+job,accountant,hobby,slacklining
+hobby,magic,hobby,writing
+job,reporter,job,firefighter
+job,electrician,trait,sly
+trait,fickle,trait,charmless
+trait,provocative,job,unemployed
+hobby,yoga,hobby,slacklining
+hobby,scuba diving,hobby,chess
+hobby,puppetry,job,nurse
+hobby,writing,trait,mechanical
+job,lecturer,trait,vulnerable
+hobby,puppetry,hobby,magic
+trait,bizarre,hobby,wine tasting
+hobby,gardening,hobby,gaming
+hobby,mixology,trait,cowardly
+hobby,pottery,hobby,slacklining
+hobby,woodworking,hobby,photography
+trait,callous,hobby,sewing
+trait,willful,hobby,puppetry
+trait,balanced,hobby,gardening
+hobby,poetry,job,unemployed
+job,historian,trait,active
+trait,introvert,trait,obsessive
+hobby,photography,job,firefighter
+job,curator,hobby,mixology
+trait,crazy,hobby,woodworking
+hobby,sailing,hobby,running
+job,nurse,hobby,mixology
+trait,fixed,hobby,baking
+hobby,puppetry,job,electrician
+job,curator,hobby,cosplaying
+hobby,cosplaying,hobby,fishing
+trait,timid,job,janitor
+trait,extravagant,hobby,bird watching
+job,reporter,trait,smart
+trait,faithless,trait,clumsy
+job,curator,trait,pompous
+trait,angry,hobby,scrapbooking
+hobby,bird watching,hobby,scuba diving
+trait,scornful,hobby,gardening
+hobby,kayaking,job,salesperson
+trait,cruel,trait,dramatic
+job,writer,job,accountant
+trait,short,hobby,yoga
+job,unemployed,job,salesperson
+trait,devious,hobby,astronomy
+hobby,dancing,hobby,sewing
+job,chef,hobby,puppetry
+hobby,sewing,trait,power-hungry
+trait,astigmatic,trait,money-minded
+job,curator,hobby,yoga
+trait,gullible,hobby,origami
+hobby,painting,trait,ridiculous
+job,lecturer,job,editor
+job,firefighter,hobby,fishing
+hobby,hiking,hobby,woodworking
+job,lawyer,job,unemployed
+hobby,bowling,hobby,chess
+hobby,rock climbing,trait,hesitant
+trait,angry,job,unemployed
+job,curator,job,chef
+trait,natty,hobby,golfing
+job,historian,job,firefighter
+hobby,wine tasting,job,engineer
+hobby,slacklining,job,professor
+trait,balanced,trait,rowdy
+trait,aloof,trait,money-minded
+hobby,skate boarding,trait,tasteless
+job,editor,hobby,rock climbing
+job,janitor,hobby,wine tasting
+hobby,sailing,hobby,yoga
+trait,provocative,hobby,poker
+job,chef,hobby,paintball
+trait,silly,trait,opportunistic
+hobby,running,trait,venal
+trait,obnoxious,job,historian
+job,lecturer,hobby,pottery
+hobby,wine tasting,trait,transparent
+hobby,fishing,hobby,canyoneering
+hobby,poker,hobby,mixology
+job,reporter,trait,callous
+trait,discourteous,trait,destructive
+hobby,canyoneering,job,nurse
+job,unemployed,job,chef
+hobby,hiking,trait,sordid
+trait,incurious,hobby,gaming
+job,psychologist,hobby,woodworking
+hobby,writing,hobby,writing
+trait,extrovert,job,historian
+trait,fanatical,job,nurse
+job,architect,hobby,golfing
+trait,crass,trait,mannerless
+job,reporter,trait,uncreative
+hobby,woodworking,trait,hesitant
+trait,fatalistic,hobby,mixology
+trait,dramatic,hobby,cycling
+job,lecturer,hobby,juggling
+job,chef,trait,fickle
+job,engineer,hobby,fishing
+trait,opportunistic,hobby,bird watching
+job,lawyer,hobby,wine tasting
+hobby,pottery,hobby,scuba diving
+trait,pedantic,hobby,scuba diving
+job,engineer,hobby,camping
+trait,elegant,trait,mawkish
+trait,uncreative,trait,ritualistic
+trait,shallow,hobby,camping
+trait,unimpressive,job,professor
+hobby,ice skating,trait,possessive
+job,curator,trait,inconsiderate
+job,unemployed,job,firefighter
+hobby,poetry,hobby,kayaking
+job,psychologist,hobby,chess
+trait,unconvincing,trait,irrational
+hobby,running,hobby,pottery
+trait,conceited,job,professor
+hobby,ice skating,job,reporter
+hobby,scrapbooking,trait,excitable
+hobby,paintball,hobby,mixology
+hobby,chess,trait,messy
+job,doctor,trait,irresponsible
+hobby,skate boarding,hobby,astronomy
+job,unemployed,job,doctor
+trait,confused,hobby,sailing
+job,janitor,job,architect
+hobby,surfing,hobby,dancing
+trait,airy,trait,calculating
+hobby,improv,hobby,martial arts
+hobby,baking,job,lecturer
+hobby,bowling,job,unemployed
+job,editor,hobby,photography
+trait,opinionated,job,accountant
+trait,disorganized,hobby,juggling
+trait,ungrateful,trait,elegant
+hobby,bowling,trait,arrogantt
+trait,condemnatory,job,engineer
+hobby,drawing,job,janitor
+hobby,drawing,hobby,cosplaying
+hobby,magic,trait,petty
+job,chef,job,janitor
+hobby,sewing,job,historian
+hobby,magic,trait,opinionated
+trait,angry,hobby,drawing
+hobby,canyoneering,job,architect
+hobby,canyoneering,hobby,cosplaying
+trait,hesitant,hobby,gardening
+trait,condemnatory,hobby,dancing
+hobby,cycling,trait,messy
+trait,erratic,hobby,scrapbooking
+job,electrician,job,firefighter
+job,salesperson,trait,mawkish
+trait,insecure,trait,ruined
+job,teacher,job,psychologist
+hobby,paintball,hobby,beatboxing
+hobby,reading,job,unemployed
+hobby,cycling,hobby,origami
+job,historian,job,lecturer
+hobby,drawing,trait,cultured
+hobby,paintball,trait,reactive
+trait,pharissical,hobby,cycling
+trait,active,trait,hateful
+hobby,wine tasting,trait,grand
+trait,cautious,trait,sly
+job,editor,hobby,fishing
+hobby,sailing,hobby,drawing
+hobby,poker,job,retired
+job,psychologist,job,professor
+hobby,origami,hobby,pottery
+trait,unimpressive,trait,decadent
+hobby,origami,hobby,writing
+hobby,sailing,trait,brittle
+trait,impulsive,trait,rigid
+trait,brittle,hobby,slacklining
+hobby,scuba diving,trait,unstable
+hobby,gaming,job,accountant
+trait,slow,job,accountant
+job,accountant,hobby,scuba diving
+trait,distractible,hobby,ice skating
+hobby,camping,trait,cautious
+hobby,paintball,hobby,kayaking
+job,teacher,job,engineer
+job,architect,job,curator
+job,professor,trait,astigmatic
+job,janitor,trait,distractible
+trait,foolish,trait,greedy
+trait,gullible,hobby,writing
+hobby,swimming,job,psychologist
+trait,sadistic,job,firefighter
+trait,repentant,trait,willful
+job,accountant,job,curator
+hobby,magic,job,salesperson
+job,nurse,job,firefighter
+trait,disruptive,trait,indulgent
+job,accountant,hobby,ice skating
+hobby,origami,job,chef
+job,electrician,trait,unreliable
+job,professor,hobby,cycling
+trait,gullible,hobby,sailing
+hobby,scuba diving,trait,adventurous
+hobby,surfing,hobby,sailing
+trait,unappreciative,job,reporter
+hobby,scuba diving,hobby,bird watching
+hobby,cosplaying,job,janitor
+hobby,gardening,hobby,canyoneering
+trait,short,hobby,photography
+trait,disturbing,trait,egocentric
+trait,disorderly,hobby,canyoneering
+job,engineer,hobby,cycling
+hobby,gardening,trait,crazy
+hobby,reading,trait,power-hungry
+job,reporter,trait,tasteless
+trait,fanciful,trait,extravagant
+hobby,cycling,job,retired
+hobby,paintball,trait,unstable
+hobby,drawing,hobby,mixology
+trait,serious,hobby,improv
+job,doctor,hobby,yoga
+hobby,poker,job,salesperson
+trait,dull,trait,sanctimonious
+trait,melancholic,trait,unstable
+trait,vague,job,architect
+hobby,ice skating,job,teacher
+hobby,bowling,job,engineer
+hobby,wine tasting,hobby,baking
+job,lawyer,trait,escapist
+hobby,surfing,hobby,baking
+hobby,pottery,trait,puritanical
+job,reporter,job,librarian
+job,chef,trait,dependent
+job,salesperson,hobby,video games
+trait,unrealistic,hobby,wine tasting
+job,librarian,hobby,slacklining
+trait,moody,job,curator
+job,librarian,job,architect
+trait,prejudiced,hobby,photography
+job,professor,trait,secretive
+trait,skinny,hobby,mixology
+job,editor,hobby,origami
+job,chef,trait,conformist
+job,lecturer,hobby,reading
+hobby,gaming,trait,cantakerous
+job,lawyer,job,engineer
+job,nurse,trait,foolish
+job,chef,job,editor
+job,historian,hobby,magic
+hobby,mixology,hobby,camping
+hobby,pottery,trait,brutal
+hobby,hiking,hobby,kayaking
+trait,venomous,hobby,video games
+hobby,reading,hobby,scuba diving
+trait,unlovable,job,electrician
+hobby,swimming,trait,sedentary
+hobby,writing,hobby,rock climbing
+hobby,poker,trait,arbitrary
+job,firefighter,job,unemployed
+trait,narrow,trait,coarse
+hobby,puppetry,hobby,juggling
+hobby,beatboxing,job,electrician
+trait,mannerless,hobby,painting
+trait,superstitious,trait,disruptive
+hobby,running,job,unemployed
+trait,unrestrained,hobby,gardening
+hobby,paintball,job,unemployed
+job,unemployed,trait,dishonest
+trait,conventional,job,writer
+job,psychologist,hobby,martial arts
+trait,quirky,trait,hesitant
+job,engineer,trait,unself-critical
+hobby,magic,job,architect
+trait,amoral,hobby,improv
+hobby,gaming,hobby,cycling
+trait,small-thinking,job,electrician
+hobby,video games,hobby,magic
+trait,serious,trait,scornful
+job,editor,job,retired
+job,lawyer,trait,fixed
+hobby,poetry,trait,fatalistic
+job,chef,trait,greedy
+hobby,martial arts,job,librarian
+trait,cold,hobby,gaming
+job,accountant,trait,thievish
+job,accountant,trait,elegant
+hobby,ice skating,hobby,video games
+hobby,astronomy,job,accountant
+hobby,bowling,job,accountant
+hobby,sewing,trait,rowdy
+hobby,hiking,job,firefighter
+trait,fanatical,job,electrician
+hobby,pottery,trait,miserly
+job,accountant,job,nurse
+hobby,running,hobby,scrapbooking
+hobby,puppetry,hobby,scrapbooking
+job,architect,hobby,painting
+hobby,paintball,job,chef
+trait,provocative,hobby,painting
+job,reporter,trait,fraudulent
+job,lecturer,hobby,pottery
+hobby,gaming,trait,offhand
+hobby,dancing,trait,dissolute
+job,firefighter,hobby,poetry
+job,lecturer,hobby,sailing
+job,lawyer,trait,creative
+hobby,hiking,trait,escapist
+job,reporter,hobby,beatboxing
+hobby,writing,job,lecturer
+hobby,sailing,job,doctor
+hobby,origami,job,firefighter
+job,writer,trait,haughty
+job,historian,job,teacher
+hobby,scrapbooking,trait,opportunistic
+trait,elegant,hobby,kayaking
+trait,quirky,hobby,bowling
+trait,inert,trait,confused
+job,writer,trait,indecisive
+trait,imitative,trait,escapist
+job,electrician,job,psychologist
+trait,sloppy,job,janitor
+hobby,bird watching,trait,timid
+job,doctor,job,historian
+trait,presumptuous,hobby,bowling
+job,firefighter,trait,disorganized
+hobby,ice skating,hobby,fishing
+trait,discouraging,trait,destructive
+hobby,golfing,hobby,painting
+hobby,gaming,job,lecturer
+job,curator,trait,thoughtless
+job,firefighter,hobby,beatboxing
+hobby,video games,hobby,juggling
+job,salesperson,job,historian
+trait,possessive,trait,bald
+trait,bald,trait,envious
+trait,one-dimensional,trait,distractible
+job,writer,trait,dissolute
+trait,unlovable,trait,eloquent
+trait,malicious,job,firefighter
+trait,reactionary,job,librarian
+job,doctor,hobby,video games
+hobby,rock climbing,trait,abrupt
+hobby,chess,job,lawyer
+hobby,origami,job,accountant
+trait,ungrateful,trait,incurious
+trait,easily discouraged,hobby,baking
+trait,tall,hobby,running
+job,architect,job,chef
+job,firefighter,trait,one-dimensional
+trait,misguided,job,reporter
+job,retired,hobby,poker
+trait,disrespectful,job,reporter
+hobby,rock climbing,job,janitor
+hobby,poetry,job,professor
+trait,offhand,job,retired
+trait,disobedient,hobby,surfing
+trait,fanciful,trait,unlovable
+job,reporter,trait,demanding
+job,architect,hobby,gardening
+hobby,poetry,trait,irritable
+job,engineer,trait,rotund
+trait,amoral,job,retired
+hobby,poetry,job,janitor
+hobby,bird watching,hobby,canyoneering
+hobby,astronomy,job,chef
+hobby,skate boarding,trait,single-minded
+hobby,baking,hobby,poker
+trait,tense,trait,biosterous
+hobby,canyoneering,trait,confused
+trait,false,hobby,bird watching
+job,retired,trait,shallow
+trait,quirky,job,lawyer
+trait,impractical,job,professor
+trait,weak-willed,trait,one-dimensional
+hobby,juggling,hobby,kayaking
+job,reporter,hobby,surfing
+trait,one-dimensional,job,janitor
+hobby,skate boarding,hobby,photography
+hobby,poetry,job,editor
+hobby,video games,hobby,scuba diving
+hobby,reading,hobby,cycling
+job,nurse,job,firefighter
+trait,unself-critical,job,chef
+job,professor,trait,unrealistic
+trait,unconvincing,job,janitor
+hobby,beatboxing,hobby,drawing
+job,teacher,job,nurse
+hobby,magic,hobby,camping
+job,curator,hobby,bird watching
+trait,meretricious,hobby,sewing
+trait,miserable,job,doctor
+trait,grim,hobby,photography
+trait,coarse,job,professor
+trait,irascible,trait,disciplined
+trait,sly,job,salesperson
+hobby,paintball,hobby,rock climbing
+hobby,gaming,job,firefighter
+trait,disconcerting,trait,envious
+job,editor,hobby,magic
+hobby,canyoneering,job,lecturer
+hobby,mixology,job,nurse
+job,curator,job,architect
+job,salesperson,job,retired
+trait,messy,trait,messy
+trait,rotund,trait,rotund
+trait,smart,trait,smart
+trait,nervous,trait,nervous
+trait,creative,trait,creative
+trait,cultured,trait,cultured
+trait,empathetic,trait,empathetic
+trait,aimless,trait,aimless
+trait,apathetic,trait,apathetic
+trait,arbitrary,trait,arbitrary
+trait,artificial,trait,artificial
+trait,asocial,trait,asocial
+trait,barbaric,trait,barbaric
+trait,bewildered,trait,bewildered
+trait,calculating,trait,calculating
+trait,charmless,trait,charmless
+trait,childish,trait,childish
+trait,colorless,trait,colorless
+trait,crude,trait,crude
+trait,decadent,trait,decadent
+trait,deceitful,trait,deceitful
+trait,delicate,trait,delicate
+trait,demanding,trait,demanding
+trait,discontented,trait,discontented
+trait,dishonest,trait,dishonest
+trait,dogmatic,trait,dogmatic
+trait,enervated,trait,enervated
+trait,envious,trait,envious
+trait,excitable,trait,excitable
+trait,expedient,trait,expedient
+trait,extreme,trait,extreme
+trait,fawning,trait,fawning
+trait,fraudulent,trait,fraudulent
+trait,frivolous,trait,frivolous
+trait,gloomy,trait,gloomy
+trait,graceless,trait,graceless
+trait,greedy,trait,greedy
+trait,hidebound,trait,hidebound
+trait,ignorant,trait,ignorant
+trait,impatient,trait,impatient
+trait,imprudent,trait,imprudent
+trait,inconsiderate,trait,inconsiderate
+trait,indulgent,trait,indulgent
+trait,inhibited,trait,inhibited
+trait,insensitive,trait,insensitive
+trait,insulting,trait,insulting
+trait,irresponsible,trait,irresponsible
+trait,irritable,trait,irritable
+trait,mechanical,trait,mechanical
+trait,meddlesome,trait,meddlesome
+trait,messy,trait,messy
+trait,money-minded,trait,money-minded
+trait,morbid,trait,morbid
+trait,muddle-headed,trait,muddle-headed
+trait,neurotic,trait,neurotic
+trait,nihilistic,trait,nihilistic
+trait,obsessive,trait,obsessive
+trait,outrageous,trait,outrageous
+trait,overimaginative,trait,overimaginative
+trait,paranoid,trait,paranoid
+trait,passive,trait,passive
+trait,perverse,trait,perverse
+trait,petty,trait,petty
+trait,phlegmatic,trait,phlegmatic
+trait,plodding,trait,plodding
+trait,pompous,trait,pompous
+trait,pretentious,trait,pretentious
+trait,prim,trait,prim
+trait,pugnacious,trait,pugnacious
+trait,regimental,trait,regimental
+trait,ridiculous,trait,ridiculous
+trait,rigid,trait,rigid
+trait,ritualistic,trait,ritualistic
+trait,rowdy,trait,rowdy
+trait,sanctimonious,trait,sanctimonious
+trait,secretive,trait,secretive
+trait,self-indulgent,trait,self-indulgent
+trait,shortsighted,trait,shortsighted
+trait,shy,trait,shy
+trait,softheaded,trait,softheaded
+trait,sordid,trait,sordid
+trait,steely,trait,steely
+trait,stiff,trait,stiff
+trait,superficial,trait,superficial
+trait,tactless,trait,tactless
+trait,tasteless,trait,tasteless
+trait,uncharitable,trait,uncharitable
+trait,uncooperative,trait,uncooperative
+trait,unctuous,trait,unctuous
+trait,unfriendly,trait,unfriendly
+trait,unhealthy,trait,unhealthy
+trait,unpolished,trait,unpolished
+trait,unprincipled,trait,unprincipled
+trait,unreliable,trait,unreliable
+trait,unstable,trait,unstable
+trait,vacuous,trait,vacuous
+trait,venal,trait,venal
+trait,vulnerable,trait,vulnerable
+trait,well-meaning,trait,well-meaning
+trait,wishabrasive,trait,wishabrasive
+trait,anal retentive,trait,anal retentive
